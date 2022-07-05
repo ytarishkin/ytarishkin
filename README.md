@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ytarishkin
+- 👋 Hi, I’m Tarishkin Yuriy
 - 👀 I’m interested in Android Depelopment
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me @tarishkin - Telegram
